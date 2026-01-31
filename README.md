@@ -67,12 +67,8 @@ This project follows a strictly **Modular Production Framework**:
    ```
 
 ## 📁 Project Structure
-   src/components: Data processing and model training logic.
-
-   src/pipeline: Real-time prediction handling.
-
-   artifacts: Saved pickle files for the Scaler, K-Means, and Final Model.
-
-   templates: High-end Flask UI dashboard.
- 
+* **src/components:** Data processing and model training logic.
+* **src/pipeline:** Real-time prediction handling.
+* **artifacts:** Saved pickle files for the Scaler, K-Means, and Final Model.
+* **templates:** High-end Flask UI dashboard.
    
